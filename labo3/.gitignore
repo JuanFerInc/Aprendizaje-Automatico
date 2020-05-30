@@ -1,0 +1,11 @@
+
+.idea/vcs.xml
+.idea/modules.xml
+.idea/labo3.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+__pycache__/utils.cpython-38.pyc
+__pycache__/naiveBayes.cpython-38.pyc
+__pycache__/knn.cpython-38.pyc
+__pycache__/chi2.cpython-38.pyc
+.idea/other.xml

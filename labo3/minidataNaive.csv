@@ -1,0 +1,15 @@
+Tiempo;Temperatura;Humed;Viento;Juega
+Soleado;Caluroso;Alta;Suave;No
+Soleado;Caluroso;Alta;Fuerte;No
+Nuboso;Caluroso;Alta;Suave;Si
+Lluvioso;Templado;Alta;Suave;Si
+Lluvioso;Frio;Normal;Suave;Si
+Lluvioso;Frio;Normal;Fuerte;No
+Nuboso;Frio;Normal;Fuerte;Si
+Soleado;Templado;Alta;Suave;No
+Soleado;Frio;Normal;Suave;Si
+Lluvioso;Templado;Normal;Suave;Si
+Soleado;Templado;Normal;Fuerte;Si
+Nuboso;Templado;Alta;Fuerte;Si
+Nuboso;Caluroso;Normal;Suave;Si
+Lluvioso;Templado;Alta;Fuerte;No
